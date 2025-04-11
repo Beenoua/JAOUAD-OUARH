@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "<p>\\© <span id='year'/> JAOUAD OUARH. All rights reserved.</p>\n\n",
+    "copyrightText": "\\© <span id='year'/> JAOUAD OUARH. All rights reserved.\n\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
