@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: Coming Soon
         tagline: Feature 1
         subtitle: ''
         text: ''
