@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "<p>\\© <span id='year'/> JAOUAD OUARH. All rights reserved.</p>\n       <p><span id='year'/> Some features on this resume has been create it using\n           <a class='text-green-700 hover:text-blue-600' href='https\\\\://www\\\\.jsdelivr.com/' rel='noopener noreferrer' target='\\\\\\_blank'>jsdelivr.com</a>\n           </p>\n",
+    "copyrightText": "<p>\\© <span id='year'/> JAOUAD OUARH. All rights reserved.</p>\n           </p>\n\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
